@@ -1,9 +1,10 @@
 {
-  "IDE Update": {
-    "name": "IDE Update",
-    "dateCreated": "2026-03-27T02:46:16.826Z",
-    "description": "my dam good game",
-    "additionalInfo": "turn up the beat",
-    "version": "1.01"
+  "IDE prgrams": {
+    "update 1": {"tab1": "er", "tab2": "er2"},
+    "update 2": {"tab1": "er", "tab2": "er2", "tab3": "er3"}
+  },
+  "Sabas": {
+    "update 1": {"tab1": "er", "tab2": "er2"},
+    "update 2": {"tab1": "er", "tab2": "er2", "tab3": "er3"}
   }
 }
